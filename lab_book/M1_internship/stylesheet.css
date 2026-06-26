@@ -178,6 +178,7 @@ body {
 }
 
 #TOC ul {
+	font-size: 0.95em;
 	/* display: contents; */
 	/* list-style-type: none; */
 }
